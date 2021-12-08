@@ -3,7 +3,8 @@
 Build Benchmark project in release mode and run the benchmark
 
 ```
-Pentium Dual-Core CPU E6300 2.80GHz, 1 CPU, 2 logical and 2 physical cores
+Pentium Dual-Core CPU E6300 2.80GHz,
+1 CPU, 2 logical and 2 physical cores
 .NET SDK=6.0.100
 ```
 
