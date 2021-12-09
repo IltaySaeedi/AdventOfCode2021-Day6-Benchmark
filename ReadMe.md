@@ -14,3 +14,5 @@ Pentium Dual-Core CPU E6300 2.80GHz,
 |            lanternFishInref | 1,484,001.32 us |  54,274.341 us | 159,177.248 us | 1,503,593.40 us |
 | lanternFishInrefResizeArray | 2,285,785.89 us | 129,218.832 us | 381,004.641 us | 2,148,747.90 us |
 |   lanternFishBetterApproach |        67.66 us |       2.054 us |       5.827 us |        67.26 us |
+
+I inspired lanternFishBetterApproach from [Phillip Carter's Solution](https://github.com/cartermp/aoc2021/blob/main/day06/day06_part1.cr)
