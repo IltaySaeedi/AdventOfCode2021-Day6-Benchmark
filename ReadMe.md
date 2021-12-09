@@ -15,4 +15,4 @@ Pentium Dual-Core CPU E6300 2.80GHz,
 | lanternFishInrefResizeArray | 2,285,785.89 us | 129,218.832 us | 381,004.641 us | 2,148,747.90 us |
 |   lanternFishBetterApproach |        67.66 us |       2.054 us |       5.827 us |        67.26 us |
 
-I inspired lanternFishBetterApproach from [Phillip Carter's Solution](https://github.com/cartermp/aoc2021/blob/main/day06/day06_part1.cr)
+[Phillip Carter's Solution](https://github.com/cartermp/aoc2021/blob/main/day06/day06_part1.cr) inspired me to write lanternFishBetterApproach
